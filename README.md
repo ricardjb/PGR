@@ -26,6 +26,7 @@ Se plantea la necesidad de una herramienta que reciba las planillas confeccionad
 
 La planilla analizada pertenece a la obra NWT, cuya construcción inició en 2023 y finalizó en 2025.
 
+
 **Análsis de Resultados**
 
 Las preguntas planteadas al inicio, fueron respondidas por el código propuesto, para el caso de estudio presentado.
